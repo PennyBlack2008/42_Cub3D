@@ -4,6 +4,17 @@
 
 [고화질 링크](https://youtu.be/pVBxSQaCmOM)
 
+## 허용 함수
+
+• open, close, read, write,
+printf, malloc, free, perror,
+strerror, exit
+
+• All functions of the math
+library (-lm man man 3 math)
+
+• All functions of the MinilibX
+
 ## 주저리주저리
 
 코로나로 인해 동료, 자료 자원이 부족한 상태에서 진행해서 많이 미숙합니다.
