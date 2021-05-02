@@ -8,4 +8,6 @@
 
 ![cub3d_better](https://user-images.githubusercontent.com/59194905/116808459-d64ea880-ab73-11eb-9fbc-c471065193cb.png)
 
+https://youtu.be/pVBxSQaCmOM
+
 
