@@ -6,5 +6,6 @@
 
 지금 보면 흠 잡을 때가 정말 많아서 수정계획 중입니다.
 
-![큐브3디](https://user-images.githubusercontent.com/59194905/116808456-c8992300-ab73-11eb-9ebe-235b66d28a69.png)
+![cub3d_better](https://user-images.githubusercontent.com/59194905/116808459-d64ea880-ab73-11eb-9fbc-c471065193cb.png)
+
 
