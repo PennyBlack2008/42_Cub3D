@@ -1,5 +1,8 @@
 # Cub3D
 
+<img width="1254" height="1254" alt="ChatGPT 이미지 2026년 10월 18일 오후 09_04_52-6" src="https://github.com/user-attachments/assets/01652e0a-c314-469b-b28d-334a6299268c" />
+
+
 ![cub3D_lighter](https://user-images.githubusercontent.com/59194905/116809300-3cd5c580-ab78-11eb-9fc3-e048a5160898.gif)
 
 [고화질 링크](https://youtu.be/pVBxSQaCmOM)
